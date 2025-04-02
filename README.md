@@ -38,11 +38,11 @@ Welcome to my GitHub profile! I'm a passionate Dev, constantly learning and buil
 ---
 
 ### 🚀 Latest Projects
-- 🏆 [Project 1](https://github.com/elenalf/Calculadora) - This project is a graphical calculator developed in Java using the Swing library. The calculator allows you to perform basic operations such as addition, subtraction, multiplication, and division, providing a user-friendly and interactive interface. It also allows you to perform operations with different bases (decimal, binary, octal, and hexadecimal).
-- 🚀 [Project 2](https://github.com/elenalf/Simon_Dice) - The game allows you to play a game of Simon Says, choosing between easy difficulty (with four colors: Red, Blue, Green, Gold) or hard difficulty (with seven colors: Red, Blue, Green, Gold, Orange, Brown, White). You can also view the top 10 players with their names and scores, and see the player(s) with the highest score.
-- 🌟 [Project 3](https://github.com/elenalf/MAQUINA_VIRTUAL) - This project involves creating a simple virtual machine in which the user can input the instructions they wish to carry out via the console.
-- 🎴 [Project 4](https://github.com/elenalf/QRIO) - Qrio is an interactive app designed for collecting curiosities on a variety of topics. Each curio is presented as a unique card with a distinctive illustration. Users can complete themed collections, unlock badges, and participate in a community for sharing curiosities. The app is available in both web and mobile versions.
-- 🛠️ [Project 5](https://github.com/elenalf/PortFolio_Personal) - Welcome to my portfolio! This project brings together my experience, skills, and featured projects into one interactive website.
+- 🏆 [Calculator](https://github.com/elenalf/Calculadora) - This project is a graphical calculator developed in Java using the Swing library. The calculator allows you to perform basic operations such as addition, subtraction, multiplication, and division, providing a user-friendly and interactive interface. It also allows you to perform operations with different bases (decimal, binary, octal, and hexadecimal).
+- 🚀 [Simon Says](https://github.com/elenalf/Simon_Dice) - The game allows you to play a game of Simon Says, choosing between easy difficulty (with four colors: Red, Blue, Green, Gold) or hard difficulty (with seven colors: Red, Blue, Green, Gold, Orange, Brown, White). You can also view the top 10 players with their names and scores, and see the player(s) with the highest score.
+- 🌟 [Virtual Machine](https://github.com/elenalf/MAQUINA_VIRTUAL) - This project involves creating a simple virtual machine in which the user can input the instructions they wish to carry out via the console.
+- 🎴 [QRIO](https://github.com/elenalf/QRIO) - Qrio is an interactive app designed for collecting curiosities on a variety of topics. Each curio is presented as a unique card with a distinctive illustration. Users can complete themed collections, unlock badges, and participate in a community for sharing curiosities. The app is available in both web and mobile versions.
+- 🛠️ [Portfolio](https://github.com/elenalf/PortFolio_Personal) - Welcome to my portfolio! This project brings together my experience, skills, and featured projects into one interactive website.
   
 
 ---
@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate Dev, constantly learning and buil
 ### 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-lópez-félix-55421330b/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https:github.io/elenalf/Portfolio_Personal)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://elenalf.github.io/PortFolio_Personal/)
 
 ---
 
