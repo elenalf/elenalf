@@ -6,7 +6,7 @@
 
 ---
 
-### 🔥 About Me
+<p align="center"><span style="color:#FF6347; font-size: 1.5em;">🔥 About Me</span></p>
 - 💻 I love coding in Java, Python, MySQL, MongoDB, Astro, React, JavaScript, TypeScript, Odoo, LaTeX ...
 - 🌱 Currently learning Cross Platform Application Developer.
 ---
