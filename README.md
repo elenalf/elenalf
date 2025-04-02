@@ -43,7 +43,7 @@
 </div>
 
 <div align="center>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenalf&layout=compact&theme=tokyonight)
+   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=elenalf&layout=compact&theme=tokyonight" width="60%" />
 </div>
 
 
