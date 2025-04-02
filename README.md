@@ -7,14 +7,14 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF6347&center=true&width=435&lines=🔥+About+Me;+💻+I+love+coding+in+[Languages]+🌱+Currently+learning+[Technology]" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF6347&center=true&width=435&lines=🔥+About+Me" />
 </p>
 - 💻 I love coding in Java, Python, MySQL, MongoDB, Astro, React, JavaScript, TypeScript, Odoo, LaTeX ...
 - 🌱 Currently learning Cross Platform Application Developer.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFD700&center=true&width=435&lines=🛠️+Tech+Stack;+My+Tech+Stack+includes+[Languages]+and+[Technologies]" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFD700&center=true&width=435&lines=🛠️+Tech+Stack" />
 </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=4CAF50&center=true&width=435&lines=📊+GitHub+Stats;+Stats+of+my+GitHub+profile+and+contributions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=4CAF50&center=true&width=435&lines=📊+GitHub+Stats" />
 </p>
 
 <div align="center">
@@ -43,7 +43,7 @@
 </div>
 
 <div align="center>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenalf&layout=compact&theme=tokyonight" width="60%" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenalf&layout=compact&theme=tokyonight)
 </div>
 
 
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&width=435&lines=🚀+Latest+Projects;+Here+are+my+latest+and+greatest+projects!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&width=435&lines=🚀+Latest+Projects" />
 </p>
 
 - 🏆 [Calculator](https://github.com/elenalf/Calculadora) - This project is a graphical calculator developed in Java using the Swing library. The calculator allows you to perform basic operations such as addition, subtraction, multiplication, and division, providing a user-friendly and interactive interface. It also allows you to perform operations with different bases (decimal, binary, octal, and hexadecimal).
