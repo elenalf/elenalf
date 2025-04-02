@@ -1,6 +1,8 @@
-### Hi there! 👋 I'm Elena López
+### <p align="center">✨ Hi there! 👋 I'm <span style="color:#FF5733">Elena López</span> ✨</p>
 
-Welcome to my GitHub profile! I'm a passionate Dev, constantly learning and building cool projects. 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFA500&center=true&width=435&lines=Welcome+to+my+GitHub!+🚀;I+love+coding+%E2%9C%A8;Let's+build+cool+projects+together!"/>
+</p>
 
 ---
 
