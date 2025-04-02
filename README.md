@@ -6,12 +6,16 @@
 
 ---
 
-<p align="center"><span style="color:#FF6347; font-size: 1.5em;">🔥 About Me</span></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF6347&center=true&width=435&lines=🔥+About+Me;+💻+I+love+coding+in+[Languages]+🌱+Currently+learning+[Technology]" />
+</p>
 - 💻 I love coding in Java, Python, MySQL, MongoDB, Astro, React, JavaScript, TypeScript, Odoo, LaTeX ...
 - 🌱 Currently learning Cross Platform Application Developer.
 ---
 
-### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFD700&center=true&width=435&lines=🛠️+Tech+Stack;+My+Tech+Stack+includes+[Languages]+and+[Technologies]" />
+</p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -26,7 +30,9 @@
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=4CAF50&center=true&width=435&lines=📊+GitHub+Stats;+Stats+of+my+GitHub+profile+and+contributions" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elenalf&show_icons=true&theme=tokyonight" width="60%" />
@@ -45,7 +51,10 @@
 
 ---
 
-### 🚀 Latest Projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&width=435&lines=🚀+Latest+Projects;+Here+are+my+latest+and+greatest+projects!" />
+</p>
+
 - 🏆 [Calculator](https://github.com/elenalf/Calculadora) - This project is a graphical calculator developed in Java using the Swing library. The calculator allows you to perform basic operations such as addition, subtraction, multiplication, and division, providing a user-friendly and interactive interface. It also allows you to perform operations with different bases (decimal, binary, octal, and hexadecimal).
 - 🚀 [Simon Says](https://github.com/elenalf/Simon_Dice) - The game allows you to play a game of Simon Says, choosing between easy difficulty (with four colors: Red, Blue, Green, Gold) or hard difficulty (with seven colors: Red, Blue, Green, Gold, Orange, Brown, White). You can also view the top 10 players with their names and scores, and see the player(s) with the highest score.
 - 🌟 [Virtual Machine](https://github.com/elenalf/MAQUINA_VIRTUAL) - This project involves creating a simple virtual machine in which the user can input the instructions they wish to carry out via the console.
@@ -55,7 +64,9 @@
 
 ---
 
-### 🌍 Connect With Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF69B4&center=true&width=435&lines=🌍+Connect+With+Me;+Let's+connect+and+collaborate!" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-lópez-félix-55421330b/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://elenalf.github.io/PortFolio_Personal/)
