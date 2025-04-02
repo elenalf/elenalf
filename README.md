@@ -27,14 +27,18 @@ Welcome to my GitHub profile! I'm a passionate Dev, constantly learning and buil
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elenalf&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=elenalf&theme=tokyonight" width="48%" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=elenalf&show_icons=true&theme=tokyonight" width="60%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenalf&layout=compact&theme=tokyonight" width="48%" />
+   <img src="https://github-profile-trophy.vercel.app/?username=elenalf&theme=tokyonight" width="60%" />
 </div>
+
+<div align="center>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenalf&layout=compact&theme=tokyonight" width="60%" />
+</div>
+
+
   
 
 ---
